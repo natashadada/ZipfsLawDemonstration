@@ -1,7 +1,7 @@
 # Applications of Zipf's Law Beyond Language
 _*From populations distribution to galaxy densities, Zipf's Law holds for much more than language*_
 
-Natasha Dada, Jun. 24,  2018
+Natasha Dada, Jun. 24,  2018 
 
 ## An Introduction to Zipf's Law
 Zipf's Law is an empirical law that states that the frequency ranks and the frequencies of words in spoken languages are inversely related. This means that in any language, the frequency of the most frequent word will be approximately twice the frequency of the second most frequent word, three times the frequency of the third most frequent word, etc. In other words, the most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, etc. Since its discovery, Zipf's Law has proven to describe a range of phenomena, some relating to language and many from a variety of other fields. The law applies to letter frequencies in addition to word frequencies in languages, population distributions, income and wealth distributions, cooperation sizes, TV channel viewings, the relative abundances of expressed genes, densities of galaxies, and much more. This essay aims to explore and illustrate Zipf's Law as applied to languages as well as applications in population distribution and wealth distribution.
