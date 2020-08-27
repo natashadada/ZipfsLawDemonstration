@@ -83,7 +83,7 @@ A plot of frequency vs. rank for the one hundred most common English words and a
 	      Plot[mostFrequentWords[[1]]/x, {x, 0, 100}, PlotStyle->{Gray, Dashed}, PlotRange->All]
     ]
 
-# GRAPH 1
+<img src="./images/graph1.png" width="380">
 
 The above example illustrated Zipf's Law as it was discovered in language. The next sections will explore applications of Zipf's Law in other fields.
 
@@ -176,7 +176,7 @@ A plot of population vs. population rank for US cities and a curve proportional 
 	      Plot[QuantityMagnitude[cityPopulations[[1]]]/x, {x, 0, Length[cityPopulations]}, PlotStyle->{Gray, Dashed}, PlotRange->All]
     ]
     
-# Graph 2
+<img src="./images/graph2.png" width="380">
 
 ### Zipf's Law and World Population Distribution
 
@@ -205,7 +205,7 @@ A plot of population vs. rank and a curve proportional to 1/x:
 	      Plot[QuantityMagnitude[countriesPopulations[[1]]]/x, {x,0,Length[countriesPopulations]}, PlotStyle->{Gray, Dashed}, PlotRange->All]
     ]
 
-# graph 3
+<img src="./images/graph3.png" width="380">
 
 ### Zipf's Law and Population: Conclusion
 The examples in this section have helped to illustrate that within all countries, regardless of population size, as well as countries' relative populations follow a population distribution aligned with Zipf's Law. This is an incredible application of Zipf's Law and can help us to better understand the nature of populations.
@@ -255,7 +255,8 @@ A plot of GDP vs. rank for all countries with a curve proportional to 1/x:
 	      ListLinePlot[countriesGDPs, LabelingFunction->False, PlotRange->All],
 	      Plot[QuantityMagnitude[countriesGDPs[[1]]/x], {x, 0, Length[countriesGDPs]}, PlotStyle->{Gray,Dashed}, PlotRange->All]
     ]
-# graph 4
+
+<img src="./images/graph4.png" width="380">
 
 ### Zipf's Law and Wealth Distribution: Conclusion
 Applying Zipf's Law to wealth distribution has many implications. For instance, it helps explain why the top 1% of the world population has half of total world wealth and why wealth gaps around the world continue to grow. Though this section explored only one instance of Zipf's Law in wealth distribution, Zipf's Law has big implications in this field.
